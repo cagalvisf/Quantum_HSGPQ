@@ -2,8 +2,8 @@ import numpy as np
 from scipy.special import erf
 
 """
-Different classes are created for each regression method.
-Here we consider the gaussian process regression using the exponential kernel and
+Different classes are created for each quadrature method.
+Here we consider the Gaussian process quadrature using the exponential kernel and
 Hilbert Space approximations of the Kernel.
 """
 
